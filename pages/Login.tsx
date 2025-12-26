@@ -73,7 +73,7 @@ const Login: React.FC<LoginProps> = ({ onLogin }) => {
           </form>
           
           <div className="mt-8 text-center text-xs text-slate-400">
-            &copy; 2024 SmartAbsensi Pro • Built for Academic Excellence
+            &copy; SmartAbsensi Pro • By : aptx4869
           </div>
         </div>
       </div>
