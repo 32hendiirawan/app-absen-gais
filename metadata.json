@@ -1,0 +1,8 @@
+{
+  "name": "SmartAbsensi Pro",
+  "description": "A comprehensive student attendance system with geolocation-based presence, parent notifications, and administrative reporting.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
